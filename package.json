@@ -1,0 +1,16 @@
+{
+  "name": "Wip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pdf2json": "^1.2.1", /* To get metadata of pdf file. */
+    "xml2json": "^0.12.0" /* To parse edbt.xml for sanity check and converts to edbt.json */
+  }
+}
